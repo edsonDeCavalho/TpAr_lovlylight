@@ -1,4 +1,4 @@
-# Rendu TP AR Lovlylight
+# Rendu TP AR Lovlylight 👻
 
 Rendu TP AR 
 
@@ -6,11 +6,6 @@ Rendu TP AR
 
 * OUEDRAOGO Bernadette Coralie Zilawindin
 * DE CARVALHO PEDRO Edson Kennedy
-
-
-### Demo :
-
-![alt text](./images/videoScreen.mp4)
 
 
 ### Screens :
