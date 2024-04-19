@@ -7,17 +7,15 @@ Rendu TP AR
 * OUEDRAOGO Bernadette Coralie Zilawindin
 * DE CARVALHO PEDRO Edson Kennedy
 
-![alt text](./images/diane.png)
 
 ### Demo :
 
-![alt text](./images/diane.png)
+![alt text](./images/videoScreen.mp4)
 
 
 ### Screens :
 
-![alt text](./images/screen1.jpg)
-![alt text](./images/screen2.jpg)
+![alt text](./images/screen2.jpg)![alt text](./images/screen1.jpg)
 
 
 
