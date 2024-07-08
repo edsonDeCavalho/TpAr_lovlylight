@@ -1,4 +1,4 @@
-# Rendu TP AR Lovlylight 👻
+# AR Lovlylight 👻
 
 Rendu TP AR 
 
