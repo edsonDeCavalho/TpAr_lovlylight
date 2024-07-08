@@ -2,11 +2,6 @@
 
 Rendu TP AR 
 
-### Membres du groupe : 
-
-* OUEDRAOGO Bernadette Coralie Zilawindin
-* DE CARVALHO PEDRO Edson Kennedy
-
 
 ### Screens :
 
